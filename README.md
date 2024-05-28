@@ -32,7 +32,7 @@ Todos os registros possuem um identificador dado diretamente pela deusa do mar C
 O capitão ordenou que os marinheiros pensem nos demais detalhes que possam agregar no gerenciamento, pois o mesmo teve um dia difícil tomando rum e comendo caranguejo.
 
 # Link da modelagem
-https://dbdiagram.io/d/Retro_Game-63fcb3fd296d97641d8408cc
+https://dbdiagram.io/d/Gerenciar-Frota-e-Tesouros-65d2a933ac844320ae6ca920
 
 
 
